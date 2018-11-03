@@ -140,6 +140,6 @@ textarea {
     background-color: #4aaaa5;
     color: #ffffff;
     padding: 10px 20px;
-    border-color: #4aaaa5;
+    border: none;
     width: 100px;
 }
