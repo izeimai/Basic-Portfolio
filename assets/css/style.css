@@ -97,6 +97,10 @@ footer {
 }
 
 /*portfolio.html specific*/
+a {
+    text-decoration: none;
+}
+
 .workfolder {
     overflow: auto;
     float: left;
